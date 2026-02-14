@@ -25,4 +25,5 @@ yarn-error.log*
 
 # Secret files
 **/secrets/
-**/credentials/
+**/credentials/.env
+.env.local
